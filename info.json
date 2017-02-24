@@ -1,11 +1,9 @@
-{
-  "name": "test_mod",
-  "version": "1.0.0",
-  "title": "Test Mod",
-  "author": "-",
-  "contact": "-",
-  "homepage": "-",
-  "description": "Mod used by the tests, that contains special scripts and prototypes used by the tests.",
-  "dependencies": ["base"]
-}
 
+{
+  "name": "core",
+  "title": "Core Factorio data",
+  "author": "Factorio team",
+  "contact": "dev@factorio.com",
+  "homepage": "http://www.factorio.com",
+  "dependencies": []
+}
